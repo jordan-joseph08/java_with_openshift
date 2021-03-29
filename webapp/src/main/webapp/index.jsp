@@ -5,7 +5,3 @@
 <h3> Change 3 is happening right now.</h3>
 <h4> Change 4, since change 3 did not work</h4>
 <h4> Change 5 is popping</h4>
-<h4> No, Jesus is popping and he is the man</h4>
-<h5> small change</h5>
-<h1> Big change</h1>
-<h3> Medium change</h3>
